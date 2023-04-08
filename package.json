@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "Gleizits",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
